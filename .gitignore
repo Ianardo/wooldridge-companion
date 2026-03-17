@@ -5,5 +5,8 @@ __pycache__/
 .venv/
 venv/
 
+# Folder
+/tests/
+
 # OS
 .DS_Store
